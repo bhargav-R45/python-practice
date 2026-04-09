@@ -1,23 +1,33 @@
-# Loan EMI Calculator 
+# EMI LOAN MASTER CALCULATOR 
 
-This is a simple Python project to calculate EMI (Equated Monthly Installment).
+A Python-based Loan EMI Calculator and Prepayment Simulator.
 
-# 📌 Project Details
-- Developed as part of college assignment
-- Built using Python
-- Takes loan amount, interest rate, and tenure(years) as input
+# 📌 Project Overview
+This project was developed as part of our college assignment at KL University.
 
-#Team Members
-- Bhargav K
-- Aashiyana M
-- K VIKAS
-- K LEELA SURYA NARAYANA
+It helps users:
+- Calculate EMI (Equated Monthly Installment)
+- Analyze total payment and interest
+- Understand impact of prepayment on loans
 
-#Features
-- Calculates EMI
-- Simple and easy to use
-- Beginner-friendly project
+# Technologies Used
+- Python
+- NumPy
+- Pandas
+- Matplotlib
 
+#👨‍💻 Team Members
+- K Bhargav
+- K Vikas
+- K Leela Surya Narayana
+- M Aashiyana Yadav
 
-# 🔗 View Code
-Click here to see the code: loan_emi_calculator.py
+#🚀 Features
+- EMI Calculation
+- Prepayment Simulation
+- Loan Analysis
+- Data Visualization using graphs
+- File handling for storing results
+
+#🔗 View Code
+(loan_emi_calculator.py)
