@@ -17,10 +17,11 @@ It helps users:
 - Matplotlib
 
 #👨‍💻 Team Members
-- K Bhargav
-- K Vikas
-- K Leela Surya Narayana
-- M Aashiyana Yadav
+- Module's we are done by :
+- K Bhargav(graph.py)
+- K Vikas(main.py)
+- K Leela Surya Narayana(emi_data.csv,loan_summary.txt)
+- M Aashiyana Yadav(loan.py,amortizationschedule.py,prepaymentsimulator.py,emicalculator.py)
 
 #🚀 Features
 - EMI Calculation
